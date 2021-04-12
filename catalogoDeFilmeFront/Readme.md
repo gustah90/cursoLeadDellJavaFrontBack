@@ -1,4 +1,4 @@
 Utilizando:
 
-Angular;
-Node.Js.
+- Angular;
+- Node.Js.
