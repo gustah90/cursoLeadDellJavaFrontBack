@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri Mar 12 23:56:55 GFT 2021
+org.eclipse.jst.jee.server\:CatalogoDeFilmes=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\CatalogoDeFilmes
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\gusta\\.m2\\repository\\org\\springframework\\spring-web\\5.2.6.RELEASE\\spring-web-5.2.6.RELEASE.jar=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\CatalogoDeFilmes\\WEB-INF\\lib\\spring-web-5.2.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\gusta\\.m2\\repository\\org\\springframework\\spring-web\\5.2.13.RELEASE\\spring-web-5.2.13.RELEASE.jar=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\CatalogoDeFilmes\\WEB-INF\\lib\\spring-web-5.2.13.RELEASE.jar
