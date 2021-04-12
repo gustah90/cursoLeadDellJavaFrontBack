@@ -1,4 +1,0 @@
-Utilizando:
-
-- Angular;
-- Node.Js.
